@@ -1,7 +1,7 @@
 # やあ、こんにちは 👋
 
 <div align="center">
-<img height="100" width="300" alt="GIF" align="center" src="(https://github.com/NIkunj-17/NIkunj-17/blob/main/13626.gif)"
+<img height="100" width="300" alt="GIF" align="center" src="https://github.com/NIkunj-17/NIkunj-17/blob/main/13626.gif">
 
 </br></br></br>
 
@@ -11,7 +11,7 @@
 ### 🔬 Research Intern @ WSAI Lab, IIT Madras — Multilingual Indic Text Embedding Model using Contrastive Learning
 ### 🇮🇳 Building end-to-end AI systems from India
 
-<img height="200" width="300" alt="GIF" align="right" src="https://github.com/NIkunj-17/NIkunj-17/blob/main/5132.gif">
+<img height="250" width="400" alt="GIF" align="right" src="https://github.com/NIkunj-17/NIkunj-17/blob/main/5132.gif">
 
 ### 🚀 Currently Working On:
 - ✨ **Gen-BI** — LLM-powered Business Intelligence (NL → SQL with RAG)
