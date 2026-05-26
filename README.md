@@ -8,7 +8,7 @@
 # About Me 💬
 
 ### 🎓 AI & Data Science undergrad @ IIIT Raichur — Batch of 2027
-### 🔬 Research Intern @ WSAI Lab, IIT Madras — Multilingual Indic Text Embedding Model using Contrastive Learning
+### 🔬 Research Intern @ WSAI, IIT Madras — Multilingual Indic Text Embedding Model using Contrastive Learning
 ### 🇮🇳 Building end-to-end AI systems from India
 
 <img height="250" width="400" alt="GIF" align="right" src="https://github.com/NIkunj-17/NIkunj-17/blob/main/5132.gif">
