@@ -1,7 +1,7 @@
 # やあ、こんにちは 👋
 
 <div align="center">
-<img height="100" width="300" alt="GIF" align="center" src="https://github.com/NIkunj-17/NIkunj-17/blob/main/13626.gif">
+<img height="300" width="500" alt="GIF" align="center" src="https://github.com/NIkunj-17/NIkunj-17/blob/main/13626.gif">
 
 </br></br></br>
 
@@ -23,21 +23,9 @@
 - ✨ Contrastive Learning & Semantic Search
 - ✨ RAG pipelines & Transformer architectures
 
-### 🎮 Hobbies:
-- ✨ Loves Valorant
-- ✨ Cricket and Table tennis 
-
 </br></br></br>
 
-# 🏆 Achievements
-
-| 🥇 Achievement | 📋 Details |
-|---|---|
-| **AlgoUniversity Fellow Test (ATF) 2024** | Selected among top 70 candidates from **20,000+** participants nationwide |
-| **GATE Data Science 2026** | AIR **1477** in GATE-DA on first attempt |
-
 </br>
-
 # Languages & Tools 👨‍💻 🛠
 
 </br>
