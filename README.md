@@ -32,9 +32,7 @@
 
 ### 🎮 Hobbies:
 - ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Loves Cricket and Table tennis
 
 <br clear="right"/>
 
@@ -97,38 +95,6 @@
 
 </div>
 
----
-
-# 💼 Featured Projects
-
-### 🔷 Gen-BI: LLM-Powered Business Intelligence *(Ongoing)*
-> AI analytics system that converts natural language to SQL for enterprise databases using LLMs + RAG. Benchmarking multiple LLMs on accuracy, latency, and correctness.
-
-### 🔷 [Finsight – Credit Risk & Churn Analysis](https://github.com/NIkunj-17)
-> End-to-end ML pipeline using XGBoost for credit risk & churn prediction. EDA, feature engineering, ROC-AUC evaluation on real-world financial datasets.
-
-### 🔷 [OMR Detection & Automated Evaluation](https://github.com/NIkunj-17)
-> Automated OMR sheet evaluation with OpenCV — ~90% accuracy via thresholding, contour detection & region extraction.
-
-### 🔷 [Lost & Found Web Platform](https://github.com/NIkunj-17)
-> Full-stack app — React, Node.js, MongoDB — with JWT auth, RESTful APIs, and role-based access control.
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Achievement | 📋 Details |
-|:---|:---|
-| **AlgoUniversity Fellow Test 2024** | Top candidates from **20,000+** participants nationwide |
-| **GATE Data Science 2026** | AIR **1477** on first attempt |
-| **Training & Placement Cell** | Corporate Relations Member @ IIIT Raichur |
-
-</div>
-
----
-
 # 📬 Contact Me
 
 <div align="center">
@@ -137,7 +103,7 @@ If you want to reach out — research collabs, hackathons, or just to game toget
 
 </br>
 
-<a href="mailto:ad23b1036@iiitr.ac.in">
+<a href="mailto:nikunjsharma17rtm@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
@@ -145,17 +111,8 @@ If you want to reach out — research collabs, hackathons, or just to game toget
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/NIkunj-17">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
----
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=NIkunj-17&show_icons=true&theme=radical"/>
 </a>
 
