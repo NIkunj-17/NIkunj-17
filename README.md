@@ -11,7 +11,7 @@
 ### 🔬 Research Intern @ WSAI Lab, IIT Madras — Multilingual Indic Text Embedding Model using Contrastive Learning
 ### 🇮🇳 Building end-to-end AI systems from India
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img height="200" width="300" alt="GIF" align="right" src="https://github.com/NIkunj-17/NIkunj-17/blob/main/5132.gif">
 
 ### 🚀 Currently Working On:
 - ✨ **Gen-BI** — LLM-powered Business Intelligence (NL → SQL with RAG)
