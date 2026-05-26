@@ -1,7 +1,7 @@
 # やあ、こんにちは 👋
 
 <div align="center">
-<img height="100" width="300" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif
+<img height="100" width="300" alt="GIF" align="center" src="(https://github.com/NIkunj-17/NIkunj-17/blob/main/13626.gif)"
 
 </br></br></br>
 
